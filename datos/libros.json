@@ -1,0 +1,74 @@
+[
+    {
+        "ISBN": 262650401,
+        "titulo": "Theory of Games and Economic Behavior",
+        "autor": "John von Neumann, Oskar Morgenstern",
+        "editorial": "Princeton University Press",
+        "precio": 45.0,
+        "stock": 15,
+        "alto": 23.0,
+        "ancho": 15.0,
+        "grosor": 4.0,
+        "tapaDura": true,
+        "peso": 1.3
+    },
+    {
+        "ISBN": 393318883,
+        "titulo": "The Evolution of Cooperation",
+        "autor": "Robert Axelrod",
+        "editorial": "Basic Books",
+        "precio": 18.99,
+        "stock": 20,
+        "alto": 21.0,
+        "ancho": 14.0,
+        "grosor": 2.5,
+        "tapaDura": false,
+        "peso": 0.8
+    },
+    {
+        "ISBN": 262517630,
+        "titulo": "Game Theory: Analysis of Conflict",
+        "autor": "Roger B. Myerson",
+        "editorial": "Harvard University Press",
+        "precio": 35.0,
+        "stock": 50,
+        "formato": "PDF",
+        "tamanioMB": 5.0,
+        "proteccionDeCopia": true
+    },
+    {
+        "ISBN": 393337170,
+        "titulo": "The Art of Strategy: A Game Theorist's Guide to Success in Business and Life",
+        "autor": "Avinash K. Dixit, Barry J. Nalebuff",
+        "editorial": "W. W. Norton & Company",
+        "precio": 20.0,
+        "stock": 30,
+        "formato": "EPUB",
+        "tamanioMB": 3.2,
+        "proteccionDeCopia": true
+    },
+    {
+        "ISBN": 521676675,
+        "titulo": "A Course in Game Theory",
+        "autor": "Martin J. Osborne, Ariel Rubinstein",
+        "editorial": "MIT Press",
+        "precio": 50.0,
+        "stock": 10,
+        "alto": 24.0,
+        "ancho": 16.0,
+        "grosor": 3.0,
+        "tapaDura": true,
+        "peso": 1.1
+    },
+    {
+        "ISBN": 262027286,
+        "titulo": "Algorithmic Game Theory",
+        "autor": "Noam Nisan, Tim Roughgarden, Eva Tardos, Vijay V. Vazirani",
+        "editorial": "Cambridge University Press",
+        "precio": 60.0,
+        "stock": 40,
+        "formato": "PDF",
+        "tamanioMB": 6.5,
+        "proteccionDeCopia": true
+    }
+]
